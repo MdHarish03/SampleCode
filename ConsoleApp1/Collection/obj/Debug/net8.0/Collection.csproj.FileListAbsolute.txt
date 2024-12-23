@@ -1,0 +1,14 @@
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\bin\Debug\net8.0\Collection.exe
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\bin\Debug\net8.0\Collection.deps.json
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\bin\Debug\net8.0\Collection.runtimeconfig.json
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\bin\Debug\net8.0\Collection.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\bin\Debug\net8.0\Collection.pdb
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.AssemblyInfoInputs.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.AssemblyInfo.cs
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\refint\Collection.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.pdb
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\Collection.genruntimeconfig.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\Collection\obj\Debug\net8.0\ref\Collection.dll

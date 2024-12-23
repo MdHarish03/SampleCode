@@ -1,0 +1,14 @@
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\bin\Debug\net8.0\CsharpExample.exe
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\bin\Debug\net8.0\CsharpExample.deps.json
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\bin\Debug\net8.0\CsharpExample.runtimeconfig.json
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\bin\Debug\net8.0\CsharpExample.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\bin\Debug\net8.0\CsharpExample.pdb
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.AssemblyInfoInputs.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.AssemblyInfo.cs
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.csproj.CoreCompileInputs.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\refint\CsharpExample.dll
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.pdb
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\CsharpExample.genruntimeconfig.cache
+C:\Users\VGSL-SW009\source\repos\ConsoleApp1\CsharpExample\obj\Debug\net8.0\ref\CsharpExample.dll
